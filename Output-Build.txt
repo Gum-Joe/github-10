@@ -1,0 +1,2 @@
+﻿1>------ Build started: Project: github-10, Configuration: Debug Any CPU ------
+2>------ Deploy started: Project: github-10, Configuration: Debug Any CPU ------

@@ -9,7 +9,8 @@
 	app.onactivated = function (args) {
 		if (args.detail.kind === activation.ActivationKind.launch) {
 			if (args.detail.previousExecutionState !== activation.ApplicationExecutionState.terminated) {
-				// TODO: This application has been newly launched. Initialize your application here.
+			    // TODO: This application has been newly launched. Initialize your application here.
+
 			} else {
 				// TODO: This application was suspended and then terminated.
 				// To create a smooth user experience, restore application state here so that it looks like the app never stopped running.
